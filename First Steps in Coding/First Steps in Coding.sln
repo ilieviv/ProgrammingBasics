@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Steps in Coding", "Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression", "Expression\Expression.csproj", "{1587CDE0-40EB-40E1-9074-69EA0653B425}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nums1to20", "Nums1to20\Nums1to20.csproj", "{6EB9EECF-5E7B-4C32-8D93-DFC8B979CA1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaRec", "AreaRec\AreaRec.csproj", "{BBB31706-CE8B-43F9-A24C-700AF91FBC6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1587CDE0-40EB-40E1-9074-69EA0653B425}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1587CDE0-40EB-40E1-9074-69EA0653B425}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1587CDE0-40EB-40E1-9074-69EA0653B425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB9EECF-5E7B-4C32-8D93-DFC8B979CA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB9EECF-5E7B-4C32-8D93-DFC8B979CA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB9EECF-5E7B-4C32-8D93-DFC8B979CA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB9EECF-5E7B-4C32-8D93-DFC8B979CA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB31706-CE8B-43F9-A24C-700AF91FBC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB31706-CE8B-43F9-A24C-700AF91FBC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB31706-CE8B-43F9-A24C-700AF91FBC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB31706-CE8B-43F9-A24C-700AF91FBC6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
