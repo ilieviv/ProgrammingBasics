@@ -8,65 +8,20 @@ namespace _6._2___01._Draw_Fort
         {
             int n = int.Parse(Console.ReadLine());
 
-            //TOP part
-            Console.Write('/');
-            for (int i = 0; i < n / 2; i++)
-            {
-                Console.Write('^');
-            }
-            Console.Write('\\');
+            var col = n / 2;
+            var row = n;
+            var size = 2 * n - 2 * col - 4;
 
-            for (int i = 0; i < 2 * n - 2 * n / 2 - 4; i++)
+            Console.WriteLine("/{0}\\{1}/{0}\\", new string('^', col), new string('_', size));
+
+            for (int i = 1; i < n - 2; i++)
             {
-                Console.Write('_');
+                Console.WriteLine("|{0}|", new string(' ', 2 * n - 2));
             }
 
-            Console.Write('/');
-            for (int i = 0; i < n / 2; i++)
-            {
-                Console.Write('^');
-            }
-            Console.Write('\\');
+            Console.WriteLine("|{0}{1}{0}|", new string(' ', col + 1), new string('_', size));
 
-
-            //Middle part
-            Console.WriteLine();
-
-            for (int i = 0; i < n - 3; i++)
-            {
-                Console.Write('|');
-                for (int j = 0; j < 2 * n - 2; j++)
-                {
-                    Console.Write(' ');
-                }
-                Console.WriteLine('|');
-
-            }
-            Console.Write('|');
-            Console.Write(new string(' ', (n / 2) ));
-            Console.Write(new string('_', 2 * n - 2 * n / 2 - 4));
-            Console.Write(new string(' ', (n / 2) ));
-            Console.WriteLine('|');
-
-            //Bottom part
-            Console.Write('\\');
-            for (int i = 0; i < 2 * n - 2 * n / 2 - 4; i++)
-            {
-                Console.Write('_');
-            }
-            Console.Write('/');
-
-            for (int i = 0; i < 2 * n - 2 * n / 2 - 4; i++)
-            {
-                Console.Write(' ');
-            }
-
-            Console.Write('\\');
-            for (int i = 0; i < n / 2; i++)
-            {
-                Console.Write('_');
-            }
-            Console.Write('/');
+            Console.WriteLine("\\{0}/{1}\\{0}/", new string('_', col), new string(' ', size));
         }
     }
 }

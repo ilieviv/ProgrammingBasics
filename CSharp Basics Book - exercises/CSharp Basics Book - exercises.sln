@@ -175,15 +175,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.1 - 15. Number Pyramid", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.1 - 16. Number Table", "7.1 - 16. Number Table\7.1 - 16. Number Table.csproj", "{A0A6AB71-EB09-42DF-A19F-6AAC332236AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2 - 01. Stupid Password Generator", "7.2 - 01. Stupid Password Generator\7.2 - 01. Stupid Password Generator.csproj", "{BB3BD99C-65AE-44F0-93A6-733CDFA7764D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2 - 01. Stupid Password Generator", "7.2 - 01. Stupid Password Generator\7.2 - 01. Stupid Password Generator.csproj", "{BB3BD99C-65AE-44F0-93A6-733CDFA7764D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2 - 02. Magic Combination", "7.2 - 02. Magic Combination\7.2 - 02. Magic Combination.csproj", "{E8430EB4-1CC2-4913-BEAA-1A2BDA07CBDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2 - 02. Magic Combination", "7.2 - 02. Magic Combination\7.2 - 02. Magic Combination.csproj", "{E8430EB4-1CC2-4913-BEAA-1A2BDA07CBDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2 - 03. Stop Number", "7.2 - 03. Stop Number\7.2 - 03. Stop Number.csproj", "{DEC6C50F-D01A-41EE-A52E-C30D54B3CC52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2 - 03. Stop Number", "7.2 - 03. Stop Number\7.2 - 03. Stop Number.csproj", "{DEC6C50F-D01A-41EE-A52E-C30D54B3CC52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2 - 04. Special Numbers", "7.2 - 04. Special Numbers\7.2 - 04. Special Numbers.csproj", "{428B13E9-E592-422C-95C2-9A60E550E7C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2 - 04. Special Numbers", "7.2 - 04. Special Numbers\7.2 - 04. Special Numbers.csproj", "{428B13E9-E592-422C-95C2-9A60E550E7C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2 - 05. Digits", "7.2 - 05. Digits\7.2 - 05. Digits.csproj", "{D986F19C-1F23-4C4F-B716-F1323CE00D9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2 - 05. Digits", "7.2 - 05. Digits\7.2 - 05. Digits.csproj", "{D986F19C-1F23-4C4F-B716-F1323CE00D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.2 - 02. Butterfly", "6.2 - 02. Butterfly\6.2 - 02. Butterfly.csproj", "{FF12C8E8-6277-48DA-8936-F3688FEA8AD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.2 - 03. Stop", "6.2 - 03. Stop\6.2 - 03. Stop.csproj", "{09B5A4EA-78C5-4234-944B-0020136E20AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.2 - 04. Arrow", "6.2 - 04. Arrow\6.2 - 04. Arrow.csproj", "{DA218F99-5466-43F4-929D-226E39E09BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.2 - 05. Axe", "6.2 - 05. Axe\6.2 - 05. Axe.csproj", "{00D1A4E9-440A-477D-B2E7-C996E503A7BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -555,6 +563,22 @@ Global
 		{D986F19C-1F23-4C4F-B716-F1323CE00D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D986F19C-1F23-4C4F-B716-F1323CE00D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D986F19C-1F23-4C4F-B716-F1323CE00D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF12C8E8-6277-48DA-8936-F3688FEA8AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF12C8E8-6277-48DA-8936-F3688FEA8AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF12C8E8-6277-48DA-8936-F3688FEA8AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF12C8E8-6277-48DA-8936-F3688FEA8AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B5A4EA-78C5-4234-944B-0020136E20AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B5A4EA-78C5-4234-944B-0020136E20AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B5A4EA-78C5-4234-944B-0020136E20AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B5A4EA-78C5-4234-944B-0020136E20AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA218F99-5466-43F4-929D-226E39E09BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA218F99-5466-43F4-929D-226E39E09BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA218F99-5466-43F4-929D-226E39E09BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA218F99-5466-43F4-929D-226E39E09BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D1A4E9-440A-477D-B2E7-C996E503A7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D1A4E9-440A-477D-B2E7-C996E503A7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D1A4E9-440A-477D-B2E7-C996E503A7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D1A4E9-440A-477D-B2E7-C996E503A7BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
