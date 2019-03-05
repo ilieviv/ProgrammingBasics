@@ -205,17 +205,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1 - 05. Date after 5 Days
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1 - 06. Sums 3 Numbers", "8.1 - 06. Sums 3 Numbers\8.1 - 06. Sums 3 Numbers.csproj", "{CDD3E0E0-3372-4B92-80E9-01AA7743413C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1 - 07. Sums Step 3", "8.1 - 07. Sums Step 3\8.1 - 07. Sums Step 3.csproj", "{AA3AE843-E287-405F-AD1C-456298C4E7EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1 - 07. Sums Step 3", "8.1 - 07. Sums Step 3\8.1 - 07. Sums Step 3.csproj", "{AA3AE843-E287-405F-AD1C-456298C4E7EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1 - 08. Increasing Elements", "8.1 - 08. Increasing Elements\8.1 - 08. Increasing Elements.csproj", "{0C4837DB-E542-436F-B5A6-4D2D12685F15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1 - 08. Increasing Elements", "8.1 - 08. Increasing Elements\8.1 - 08. Increasing Elements.csproj", "{0C4837DB-E542-436F-B5A6-4D2D12685F15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1 - 09. Perfect Diamond", "8.1 - 09. Perfect Diamond\8.1 - 09. Perfect Diamond.csproj", "{E84A2FD8-872B-4FDB-A329-0C883DFCC69F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1 - 09. Perfect Diamond", "8.1 - 09. Perfect Diamond\8.1 - 09. Perfect Diamond.csproj", "{E84A2FD8-872B-4FDB-A329-0C883DFCC69F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1 - 10. Rectangle with Stars", "8.1 - 10. Rectangle with Stars\8.1 - 10. Rectangle with Stars.csproj", "{F46AF110-5FB0-48F9-B817-1F238B0791D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1 - 10. Rectangle with Stars", "8.1 - 10. Rectangle with Stars\8.1 - 10. Rectangle with Stars.csproj", "{F46AF110-5FB0-48F9-B817-1F238B0791D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1 - 11. Increasing 4 Numbers", "8.1 - 11. Increasing 4 Numbers\8.1 - 11. Increasing 4 Numbers.csproj", "{11A2B5CA-590C-433D-9550-0216F311FA11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1 - 11. Increasing 4 Numbers", "8.1 - 11. Increasing 4 Numbers\8.1 - 11. Increasing 4 Numbers.csproj", "{11A2B5CA-590C-433D-9550-0216F311FA11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1 - 12. Generate Rectangles", "8.1 - 12. Generate Rectangles\8.1 - 12. Generate Rectangles.csproj", "{9B8791D7-4CF5-4C09-99D7-F6A242B96BDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.1 - 12. Generate Rectangles", "8.1 - 12. Generate Rectangles\8.1 - 12. Generate Rectangles.csproj", "{9B8791D7-4CF5-4C09-99D7-F6A242B96BDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2 - 01. Distance", "8.2 - 01. Distance\8.2 - 01. Distance.csproj", "{E16B72F4-1B40-4270-B78F-A6415905E01A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2 - 02. Change Tiles", "8.2 - 02. Change Tiles\8.2 - 02. Change Tiles.csproj", "{960CF937-3BC3-425B-89AA-8DF1AD9EFD8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2 - 03. Flowers", "8.1 - 03. Flowers\8.2 - 03. Flowers.csproj", "{C64738A5-1832-4474-B1C6-195326F83AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2 - 04. Grades", "8.2 - 04. Grades\8.2 - 04. Grades.csproj", "{51019853-B26B-4B76-B60F-8AD8898C7B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2 - 05. Christmas Hat", "8.2 - 05. Christmas Hat\8.2 - 05. Christmas Hat.csproj", "{5570B9D2-3856-49C3-A97B-8EC17C3AEBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2 - 06. Letters Combinations", "8.2 - 06. Letters Combinations\8.2 - 06. Letters Combinations.csproj", "{C708C53D-4242-4CC7-8D96-CADDD6612735}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -651,6 +663,30 @@ Global
 		{9B8791D7-4CF5-4C09-99D7-F6A242B96BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B8791D7-4CF5-4C09-99D7-F6A242B96BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B8791D7-4CF5-4C09-99D7-F6A242B96BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16B72F4-1B40-4270-B78F-A6415905E01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16B72F4-1B40-4270-B78F-A6415905E01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16B72F4-1B40-4270-B78F-A6415905E01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16B72F4-1B40-4270-B78F-A6415905E01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960CF937-3BC3-425B-89AA-8DF1AD9EFD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960CF937-3BC3-425B-89AA-8DF1AD9EFD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960CF937-3BC3-425B-89AA-8DF1AD9EFD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960CF937-3BC3-425B-89AA-8DF1AD9EFD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64738A5-1832-4474-B1C6-195326F83AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64738A5-1832-4474-B1C6-195326F83AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64738A5-1832-4474-B1C6-195326F83AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64738A5-1832-4474-B1C6-195326F83AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51019853-B26B-4B76-B60F-8AD8898C7B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51019853-B26B-4B76-B60F-8AD8898C7B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51019853-B26B-4B76-B60F-8AD8898C7B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51019853-B26B-4B76-B60F-8AD8898C7B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5570B9D2-3856-49C3-A97B-8EC17C3AEBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5570B9D2-3856-49C3-A97B-8EC17C3AEBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5570B9D2-3856-49C3-A97B-8EC17C3AEBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5570B9D2-3856-49C3-A97B-8EC17C3AEBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C708C53D-4242-4CC7-8D96-CADDD6612735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C708C53D-4242-4CC7-8D96-CADDD6612735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C708C53D-4242-4CC7-8D96-CADDD6612735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C708C53D-4242-4CC7-8D96-CADDD6612735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
