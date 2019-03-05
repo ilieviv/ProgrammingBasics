@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _9._1___01._Crossing_sequences
 {
@@ -12,48 +13,61 @@ namespace _9._1___01._Crossing_sequences
             int s1 = int.Parse(Console.ReadLine());
             int s2 = int.Parse(Console.ReadLine());
 
-            int sCurrent = s1;
+            var tribonaciNumbers = new List<int>() { t1, t2, t3 };
+            var tribonaciCurrent = t3;
 
-            int tFirst = t1;
-            int tSecond = t2;
-            int tThird = t3;
-            int tCurrent = t1;
-
-            int counter = 0;
-            int multi = 0;
-
-            bool found = false;
-
-            while (sCurrent <= 1000000 && tCurrent <= 1000000)
+            while (tribonaciCurrent < 1000000)
             {
-                if (tCurrent == sCurrent)
+                tribonaciCurrent = t1 + t2 + t3;
+                tribonaciNumbers.Add(tribonaciCurrent);
+
+                t1 = t2;
+                t2 = t3;
+                t3 = tribonaciCurrent;
+            }
+            var spiralCurrent = s1;
+            var spiralNumbers = new List<int>() { spiralCurrent };
+            var spiralCount = 0;
+            var spiralStepMul = 1;
+
+
+            while (spiralCurrent < 1000000)
+            {
+                spiralCurrent += s2 * spiralStepMul;
+
+                spiralNumbers.Add(spiralCurrent);
+                spiralCount++;
+
+                if (spiralCount % 2 == 0)
                 {
-                    Console.WriteLine(tCurrent); found = true; break;
-                }
-                else if (tCurrent < sCurrent)
-                {
-                    tCurrent = tFirst + tSecond + tThird;
-                    tFirst = tSecond;
-                    tSecond = tThird;
-                    tThird = tCurrent;
-                }
-                else
-                {
-                    if (counter % 2 == 0)
-                    {
-                        multi++;
-                    }
-                    sCurrent = s1 + s2 * multi;
-                    s1 = sCurrent;
-                    counter++;
+                    spiralStepMul++;
                 }
 
             }
 
+            var found = false;
+
+            for (int i = 0; i < tribonaciNumbers.Count; i++)
+            {
+                for (int j = 0; j < spiralNumbers.Count; j++)
+                {
+                    if (tribonaciNumbers[i] == spiralNumbers[j] && tribonaciNumbers[i] <= 1000000)
+                    {
+                        Console.WriteLine(tribonaciNumbers[i]);
+                        found = true;
+                        break;
+                    }
+                }
+                if (found)
+                {
+                    break;
+                }
+            }
             if (!found)
             {
                 Console.WriteLine("No");
             }
+
         }
     }
 }
