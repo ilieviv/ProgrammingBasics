@@ -223,17 +223,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2 - 02. Change Tiles", "8
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2 - 03. Flowers", "8.1 - 03. Flowers\8.2 - 03. Flowers.csproj", "{C64738A5-1832-4474-B1C6-195326F83AFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2 - 04. Grades", "8.2 - 04. Grades\8.2 - 04. Grades.csproj", "{51019853-B26B-4B76-B60F-8AD8898C7B9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2 - 04. Grades", "8.2 - 04. Grades\8.2 - 04. Grades.csproj", "{51019853-B26B-4B76-B60F-8AD8898C7B9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2 - 05. Christmas Hat", "8.2 - 05. Christmas Hat\8.2 - 05. Christmas Hat.csproj", "{5570B9D2-3856-49C3-A97B-8EC17C3AEBB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2 - 05. Christmas Hat", "8.2 - 05. Christmas Hat\8.2 - 05. Christmas Hat.csproj", "{5570B9D2-3856-49C3-A97B-8EC17C3AEBB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2 - 06. Letters Combinations", "8.2 - 06. Letters Combinations\8.2 - 06. Letters Combinations.csproj", "{C708C53D-4242-4CC7-8D96-CADDD6612735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2 - 06. Letters Combinations", "8.2 - 06. Letters Combinations\8.2 - 06. Letters Combinations.csproj", "{C708C53D-4242-4CC7-8D96-CADDD6612735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.1 - 01. Crossing sequences", "9.1 - 01. Crossing sequences\9.1 - 01. Crossing sequences.csproj", "{4F663448-0B0E-42DF-8DF0-88D769FF3D0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.1 - 01. Crossing sequences", "9.1 - 01. Crossing sequences\9.1 - 01. Crossing sequences.csproj", "{4F663448-0B0E-42DF-8DF0-88D769FF3D0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.1 - 02. Magic Dates", "9.2 - 02. Magic Dates\9.1 - 02. Magic Dates.csproj", "{6789AEB4-6747-4816-8F29-FEC3EA24BD05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.1 - 02. Magic Dates", "9.2 - 02. Magic Dates\9.1 - 02. Magic Dates.csproj", "{6789AEB4-6747-4816-8F29-FEC3EA24BD05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.1 - 03. Five Special Letters", "9.2 - 03. Five Special Letters\9.1 - 03. Five Special Letters.csproj", "{9594E313-E059-4A0A-B251-4DAAD25A1A77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.1 - 03. Five Special Letters", "9.2 - 03. Five Special Letters\9.1 - 03. Five Special Letters.csproj", "{9594E313-E059-4A0A-B251-4DAAD25A1A77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.2 - 01. Passion Days", "9.2 - 01. Passion Days\9.2 - 01. Passion Days.csproj", "{8F115B82-FA97-4492-A70F-0777490315E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.2 - 02. X Expression", "9.2 - 02. X Expression\9.2 - 02. X Expression.csproj", "{14C2DB6F-6E28-4ED3-9A38-D11B31082AAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.2 - 03. Bulls and Cows", "9.2 - 03. Bulls and Cows\9.2 - 03. Bulls and Cows.csproj", "{B80BEA9B-DF01-4D95-B78E-5209023D1CBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -705,6 +711,18 @@ Global
 		{9594E313-E059-4A0A-B251-4DAAD25A1A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9594E313-E059-4A0A-B251-4DAAD25A1A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9594E313-E059-4A0A-B251-4DAAD25A1A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F115B82-FA97-4492-A70F-0777490315E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F115B82-FA97-4492-A70F-0777490315E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F115B82-FA97-4492-A70F-0777490315E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F115B82-FA97-4492-A70F-0777490315E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C2DB6F-6E28-4ED3-9A38-D11B31082AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C2DB6F-6E28-4ED3-9A38-D11B31082AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C2DB6F-6E28-4ED3-9A38-D11B31082AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C2DB6F-6E28-4ED3-9A38-D11B31082AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80BEA9B-DF01-4D95-B78E-5209023D1CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80BEA9B-DF01-4D95-B78E-5209023D1CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80BEA9B-DF01-4D95-B78E-5209023D1CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80BEA9B-DF01-4D95-B78E-5209023D1CBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
