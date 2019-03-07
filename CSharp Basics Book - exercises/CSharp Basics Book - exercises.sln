@@ -237,31 +237,39 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.1 - 03. Five Special Lett
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.2 - 01. Passion Days", "9.2 - 01. Passion Days\9.2 - 01. Passion Days.csproj", "{8F115B82-FA97-4492-A70F-0777490315E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.2 - 02. X Expression", "9.2 - 02. X Expression\9.2 - 02. X Expression.csproj", "{14C2DB6F-6E28-4ED3-9A38-D11B31082AAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.2 - 02. X Expression", "9.2 - 02. X Expression\9.2 - 02. X Expression.csproj", "{14C2DB6F-6E28-4ED3-9A38-D11B31082AAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.2 - 03. Bulls and Cows", "9.2 - 03. Bulls and Cows\9.2 - 03. Bulls and Cows.csproj", "{B80BEA9B-DF01-4D95-B78E-5209023D1CBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.2 - 03. Bulls and Cows", "9.2 - 03. Bulls and Cows\9.2 - 03. Bulls and Cows.csproj", "{B80BEA9B-DF01-4D95-B78E-5209023D1CBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 01. Blank Receipt", "10 - 01. Blank Receipt\10 - 01. Blank Receipt.csproj", "{1C6FCD68-BF1F-4547-A1ED-BB427FCA332D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 01. Blank Receipt", "10 - 01. Blank Receipt\10 - 01. Blank Receipt.csproj", "{1C6FCD68-BF1F-4547-A1ED-BB427FCA332D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 02. Sign of Integer Number", "10 - 02. Sign of Integer Number\10 - 02. Sign of Integer Number.csproj", "{38D764BD-51EF-47C9-A13F-8484CC182A5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 02. Sign of Integer Number", "10 - 02. Sign of Integer Number\10 - 02. Sign of Integer Number.csproj", "{38D764BD-51EF-47C9-A13F-8484CC182A5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 03. Printing Triangle", "10 - 03. Printing Triangle\10 - 03. Printing Triangle.csproj", "{2EB79A14-1398-4FC8-AB3D-332DBD475973}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 03. Printing Triangle", "10 - 03. Printing Triangle\10 - 03. Printing Triangle.csproj", "{2EB79A14-1398-4FC8-AB3D-332DBD475973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 04. Draw a Filled Square", "10 - 04. Draw a Filled Square\10 - 04. Draw a Filled Square.csproj", "{0B14F2C3-3E12-4375-805F-DDEBF6829153}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 04. Draw a Filled Square", "10 - 04. Draw a Filled Square\10 - 04. Draw a Filled Square.csproj", "{0B14F2C3-3E12-4375-805F-DDEBF6829153}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 05. Calculate Triangle Area", "10 - 05. Calculate Triangle Area\10 - 05. Calculate Triangle Area.csproj", "{76FF8326-5545-4D93-B555-149B78FEBD98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 05. Calculate Triangle Area", "10 - 05. Calculate Triangle Area\10 - 05. Calculate Triangle Area.csproj", "{76FF8326-5545-4D93-B555-149B78FEBD98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 06. Math Power", "10 - 06. Math Power\10 - 06. Math Power.csproj", "{C8B05AFA-ADE4-4920-8719-114F48483160}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 06. Math Power", "10 - 06. Math Power\10 - 06. Math Power.csproj", "{C8B05AFA-ADE4-4920-8719-114F48483160}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 07. Greater of Two Values", "10 - 07. Greater of Two Values\10 - 07. Greater of Two Values.csproj", "{73DF00B3-04A0-4AC6-A466-53687AA39E13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 07. Greater of Two Values", "10 - 07. Greater of Two Values\10 - 07. Greater of Two Values.csproj", "{73DF00B3-04A0-4AC6-A466-53687AA39E13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 08. Hello, Name!", "10 - 08. Hello, Name!\10 - 08. Hello, Name!.csproj", "{89F9604F-B060-4971-A19C-518C870FCCEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 08. Hello, Name!", "10 - 08. Hello, Name!\10 - 08. Hello, Name!.csproj", "{89F9604F-B060-4971-A19C-518C870FCCEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 09. Min Method", "10 - 09. Min Method\10 - 09. Min Method.csproj", "{A9B5A0BA-B76E-4F76-A21A-005A3662D375}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 09. Min Method", "10 - 09. Min Method\10 - 09. Min Method.csproj", "{A9B5A0BA-B76E-4F76-A21A-005A3662D375}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 10. String Repeater", "10 - 10. String Repeater\10 - 10. String Repeater.csproj", "{E2D9F1FF-B989-4F44-AC5A-A7D0DF36FBB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 10. String Repeater", "10 - 10. String Repeater\10 - 10. String Repeater.csproj", "{E2D9F1FF-B989-4F44-AC5A-A7D0DF36FBB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 11. Nth Digit", "10 - 11. Nth Digit\10 - 11. Nth Digit.csproj", "{65E1BBC1-61C3-4E05-80C4-46F7339126A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 11. Nth Digit", "10 - 11. Nth Digit\10 - 11. Nth Digit.csproj", "{65E1BBC1-61C3-4E05-80C4-46F7339126A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 12. Integer to Base", "10 - 12. Integer to Base\10 - 12. Integer to Base.csproj", "{DCD3A9FD-A8EB-4A60-8966-E046F1E7DB3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 13. Notifications", "10 - 13. Notifications\10 - 13. Notifications.csproj", "{1D57E1AB-D0BD-4DDF-B9AE-B04AF2121CC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 14. Numbers to Words", "10 - 14. Numbers to Words\10 - 14. Numbers to Words.csproj", "{E2CA7B57-E911-404B-92C4-7E88CE4C3E29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 15. String Encryption", "10 - 15. String Encryption\10 - 15. String Encryption.csproj", "{1DD2588D-1F4C-4B5B-96FD-336BCE241091}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -789,6 +797,22 @@ Global
 		{65E1BBC1-61C3-4E05-80C4-46F7339126A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65E1BBC1-61C3-4E05-80C4-46F7339126A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65E1BBC1-61C3-4E05-80C4-46F7339126A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD3A9FD-A8EB-4A60-8966-E046F1E7DB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD3A9FD-A8EB-4A60-8966-E046F1E7DB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD3A9FD-A8EB-4A60-8966-E046F1E7DB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD3A9FD-A8EB-4A60-8966-E046F1E7DB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D57E1AB-D0BD-4DDF-B9AE-B04AF2121CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D57E1AB-D0BD-4DDF-B9AE-B04AF2121CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D57E1AB-D0BD-4DDF-B9AE-B04AF2121CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D57E1AB-D0BD-4DDF-B9AE-B04AF2121CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2CA7B57-E911-404B-92C4-7E88CE4C3E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CA7B57-E911-404B-92C4-7E88CE4C3E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CA7B57-E911-404B-92C4-7E88CE4C3E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CA7B57-E911-404B-92C4-7E88CE4C3E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD2588D-1F4C-4B5B-96FD-336BCE241091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD2588D-1F4C-4B5B-96FD-336BCE241091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD2588D-1F4C-4B5B-96FD-336BCE241091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD2588D-1F4C-4B5B-96FD-336BCE241091}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
