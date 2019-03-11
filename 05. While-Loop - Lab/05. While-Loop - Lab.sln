@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Number in Range 1to100", "ConsoleApp1\01. Number in Range 1to100.csproj", "{B30DF109-7043-4C26-B6FB-A9D707458123}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Sequence 2k+1", "02. Sequence 2k+1\02. Sequence 2k+1.csproj", "{C0B2C191-C524-4A63-87F9-476AD3448AD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sequence 2k+1", "02. Sequence 2k+1\02. Sequence 2k+1.csproj", "{C0B2C191-C524-4A63-87F9-476AD3448AD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Account Balance", "03. Account Balance\03. Account Balance.csproj", "{341CDAAC-A7D5-4340-9041-2E8ADF888BBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Account Balance", "03. Account Balance\03. Account Balance.csproj", "{341CDAAC-A7D5-4340-9041-2E8ADF888BBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Number sequence", "04. Number sequence\04. Number sequence.csproj", "{E8C73BF7-AA53-4861-A121-70A0EEDEC7E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Number sequence", "04. Number sequence\04. Number sequence.csproj", "{E8C73BF7-AA53-4861-A121-70A0EEDEC7E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Walking", "05. Walking\05. Walking.csproj", "{563F16DB-EE6A-4C7A-91BF-56B9942DFFD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Walking", "05. Walking\05. Walking.csproj", "{563F16DB-EE6A-4C7A-91BF-56B9942DFFD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Graduation", "06. Graduation\06. Graduation.csproj", "{2BD3815D-F3E1-4200-8071-6F51FE5A9B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Number in Range 1to100", "01. Number in Range 1to100\01. Number in Range 1to100.csproj", "{076E2593-8B6B-46AD-B998-3E4D70FBDCE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B30DF109-7043-4C26-B6FB-A9D707458123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B30DF109-7043-4C26-B6FB-A9D707458123}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B30DF109-7043-4C26-B6FB-A9D707458123}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B30DF109-7043-4C26-B6FB-A9D707458123}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C0B2C191-C524-4A63-87F9-476AD3448AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C0B2C191-C524-4A63-87F9-476AD3448AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0B2C191-C524-4A63-87F9-476AD3448AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +37,14 @@ Global
 		{563F16DB-EE6A-4C7A-91BF-56B9942DFFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{563F16DB-EE6A-4C7A-91BF-56B9942DFFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{563F16DB-EE6A-4C7A-91BF-56B9942DFFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD3815D-F3E1-4200-8071-6F51FE5A9B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD3815D-F3E1-4200-8071-6F51FE5A9B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD3815D-F3E1-4200-8071-6F51FE5A9B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD3815D-F3E1-4200-8071-6F51FE5A9B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{076E2593-8B6B-46AD-B998-3E4D70FBDCE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076E2593-8B6B-46AD-B998-3E4D70FBDCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076E2593-8B6B-46AD-B998-3E4D70FBDCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076E2593-8B6B-46AD-B998-3E4D70FBDCE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
