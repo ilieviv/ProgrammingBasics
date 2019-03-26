@@ -9,9 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Number Pyramid", "02. N
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Coding", "03. Coding\03. Coding.csproj", "{9378D283-4DB2-4E48-BB27-B02403E14493}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Equal Sums Even Odd Position", "04. Equal Sums Even Odd Position\04. Equal Sums Even Odd Position.csproj", "{6B897CEA-464A-4A40-960B-9B07E9B83E2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Equal Sums Even Odd Position", "04. Equal Sums Even Odd Position\04. Equal Sums Even Odd Position.csproj", "{6B897CEA-464A-4A40-960B-9B07E9B83E2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Equal Sums Left Right Position", "05. Equal Sums Left Right Position\05. Equal Sums Left Right Position.csproj", "{F2EF473D-8669-444B-AA9A-BB0E5980DF54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Equal Sums Left Right Position", "05. Equal Sums Left Right Position\05. Equal Sums Left Right Position.csproj", "{F2EF473D-8669-444B-AA9A-BB0E5980DF54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Sum Prime Non Prime", "06. Sum Prime Non Prime\06. Sum Prime Non Prime.csproj", "{ABAE2DE1-8708-4D2B-91BB-98129526EFD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Train The Trainers", "07. Train The Trainers\07. Train The Trainers.csproj", "{A256C703-2B0C-4EAB-B2DE-7C759F1EBC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Fishing", "08. Fishing\08. Fishing.csproj", "{5FD1DCA2-6F07-4C1D-9984-FC0AF0012F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Password Generator", "09. Password Generator\09. Password Generator.csproj", "{A82FAD7B-E832-4DE0-A454-975DF3624499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Special Numbers", "10. Special Numbers\10. Special Numbers.csproj", "{E51E6889-ADB3-47C3-917D-12876011A47D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{F2EF473D-8669-444B-AA9A-BB0E5980DF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2EF473D-8669-444B-AA9A-BB0E5980DF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2EF473D-8669-444B-AA9A-BB0E5980DF54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAE2DE1-8708-4D2B-91BB-98129526EFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAE2DE1-8708-4D2B-91BB-98129526EFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAE2DE1-8708-4D2B-91BB-98129526EFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAE2DE1-8708-4D2B-91BB-98129526EFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A256C703-2B0C-4EAB-B2DE-7C759F1EBC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A256C703-2B0C-4EAB-B2DE-7C759F1EBC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A256C703-2B0C-4EAB-B2DE-7C759F1EBC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A256C703-2B0C-4EAB-B2DE-7C759F1EBC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD1DCA2-6F07-4C1D-9984-FC0AF0012F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD1DCA2-6F07-4C1D-9984-FC0AF0012F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD1DCA2-6F07-4C1D-9984-FC0AF0012F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD1DCA2-6F07-4C1D-9984-FC0AF0012F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A82FAD7B-E832-4DE0-A454-975DF3624499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82FAD7B-E832-4DE0-A454-975DF3624499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82FAD7B-E832-4DE0-A454-975DF3624499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82FAD7B-E832-4DE0-A454-975DF3624499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51E6889-ADB3-47C3-917D-12876011A47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51E6889-ADB3-47C3-917D-12876011A47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51E6889-ADB3-47C3-917D-12876011A47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51E6889-ADB3-47C3-917D-12876011A47D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
