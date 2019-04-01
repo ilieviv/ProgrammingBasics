@@ -263,13 +263,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 10. String Repeater", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 11. Nth Digit", "10 - 11. Nth Digit\10 - 11. Nth Digit.csproj", "{65E1BBC1-61C3-4E05-80C4-46F7339126A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 12. Integer to Base", "10 - 12. Integer to Base\10 - 12. Integer to Base.csproj", "{DCD3A9FD-A8EB-4A60-8966-E046F1E7DB3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 12. Integer to Base", "10 - 12. Integer to Base\10 - 12. Integer to Base.csproj", "{DCD3A9FD-A8EB-4A60-8966-E046F1E7DB3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 13. Notifications", "10 - 13. Notifications\10 - 13. Notifications.csproj", "{1D57E1AB-D0BD-4DDF-B9AE-B04AF2121CC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 13. Notifications", "10 - 13. Notifications\10 - 13. Notifications.csproj", "{1D57E1AB-D0BD-4DDF-B9AE-B04AF2121CC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 14. Numbers to Words", "10 - 14. Numbers to Words\10 - 14. Numbers to Words.csproj", "{E2CA7B57-E911-404B-92C4-7E88CE4C3E29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 14. Numbers to Words", "10 - 14. Numbers to Words\10 - 14. Numbers to Words.csproj", "{E2CA7B57-E911-404B-92C4-7E88CE4C3E29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - 15. String Encryption", "10 - 15. String Encryption\10 - 15. String Encryption.csproj", "{1DD2588D-1F4C-4B5B-96FD-336BCE241091}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - 15. String Encryption", "10 - 15. String Encryption\10 - 15. String Encryption.csproj", "{1DD2588D-1F4C-4B5B-96FD-336BCE241091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.1 - 07. Left and Right Sum", "5.1 - 07. Left and Right Sum\5.1 - 07. Left and Right Sum.csproj", "{3CB44062-5A1B-43C0-85F8-A34F8F394A90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -813,6 +815,10 @@ Global
 		{1DD2588D-1F4C-4B5B-96FD-336BCE241091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DD2588D-1F4C-4B5B-96FD-336BCE241091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DD2588D-1F4C-4B5B-96FD-336BCE241091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB44062-5A1B-43C0-85F8-A34F8F394A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB44062-5A1B-43C0-85F8-A34F8F394A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB44062-5A1B-43C0-85F8-A34F8F394A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB44062-5A1B-43C0-85F8-A34F8F394A90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
